@@ -1,0 +1,10 @@
+APIHandler/csv/Menu_hours.csv
+APIHandler/csv/results.csv
+APIHandler/csv/store_status.csv
+APIHandler/csv/Timezone.csv
+
+__pycache__
+
+.env
+
+.gitattributes
